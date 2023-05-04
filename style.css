@@ -1,0 +1,29 @@
+body {
+    background-color: #aaba45;
+    color: antiquewhite;
+}
+#card1{
+    background-color: #5545BA;
+    width: 90%;
+    height: 250px;
+    text-align: center;
+    color:white;
+    border-radius: 5px 5px 5px 5px; 
+    box-shadow: 2px 2px 2px 2px white;
+}
+header{
+    display:flex;
+}
+ul {
+    list-style: none;
+    display:flex;
+    
+    
+    
+}
+ul li{
+    padding-left: 40px;
+    padding-top: 15px;
+    
+    
+}
